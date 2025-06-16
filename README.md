@@ -101,10 +101,10 @@ A user-friendly interface built using **Streamlit**, enabling loan officers to:
 
 ## 📎 Screenshots
 
-> ![ROC Curve](visuals/roc_curve.png)  
+> ![ROC Curve](roc_curve.png)  
 > *ROC-AUC = 0.98*
 
-> ![Feature Importance](visuals/feature_importance.png)  
+> ![Feature Importance](feature_importance.png)  
 > *Top drivers influencing credit default*
 
 ---
